@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    // -webkit-user-select: none !important;
+    // -webkit-tap-highlight-color: transparent !important;
+    // -webkit-touch-callout: none !important;
+    font-family: 'GraphikLCG', sans-serif !important;
+}
